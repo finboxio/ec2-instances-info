@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cristim/ec2-instances-info"
+	"github.com/finboxio/ec2-instances-info"
 )
 
 func main() {
